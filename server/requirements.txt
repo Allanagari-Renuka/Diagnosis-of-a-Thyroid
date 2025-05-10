@@ -1,0 +1,5 @@
+flask==2.2.5
+onnxruntime==1.21.0
+pillow==10.1.0
+numpy==1.23.5
+werkzeug==2.2.3
